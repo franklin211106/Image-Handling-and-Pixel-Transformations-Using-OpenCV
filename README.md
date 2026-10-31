@@ -1,5 +1,7 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV
-
+# Program Developed By:
+# Name:FRANKLIN .F
+# Register Number:212224240041
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
@@ -29,9 +31,6 @@ Modify the image contrast by creating two higher contrast images using scaling f
 ### Step 5:
 Split the image into B, G, R components and display the channels.
 
-## Program Developed By:
-- **Name:** FRANKLIN .F
-- **Register Number:** 212224240041
 
 ### Ex. No. 01
 
